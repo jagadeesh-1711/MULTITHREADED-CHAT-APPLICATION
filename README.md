@@ -85,7 +85,20 @@ Socket-based messaging forms the backbone of conversational AI tools in enterpri
 Open Command Prompt or PowerShell and navigate to the project folder:
 
 ``bash
+
 cd path/to/Java_ChatApplication
+
 javac Server.java
+
 javac Client.java
+
+##SERVER
+
+``bash
+
+java Server
+
+##CLIENT
+
+java Client
 
