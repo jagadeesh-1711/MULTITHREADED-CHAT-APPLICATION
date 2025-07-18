@@ -102,3 +102,6 @@ java Server
 
 java Client
 
+##OUTPUT
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/209b7529-1fe8-4b4c-87e8-1d5caf63e23f" />
