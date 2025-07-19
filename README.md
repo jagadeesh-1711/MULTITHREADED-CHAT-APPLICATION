@@ -75,6 +75,9 @@ Helps developers design low-latency, message-driven microservice systems.
 Socket-based messaging forms the backbone of conversational AI tools in enterprise and automation systems.
 
 ---
+##OUTPUT
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/209b7529-1fe8-4b4c-87e8-1d5caf63e23f" />
 
 ## ▶️ How to Compile and Run
 
@@ -84,7 +87,7 @@ Socket-based messaging forms the backbone of conversational AI tools in enterpri
 
 Open Command Prompt or PowerShell and navigate to the project folder:
 
-``bash
+```bash
 
 cd path/to/Java_ChatApplication
 
@@ -94,7 +97,7 @@ javac Client.java
 
 ##SERVER
 
-``bash
+```bash
 
 java Server
 
@@ -102,6 +105,3 @@ java Server
 
 java Client
 
-##OUTPUT
-
-<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/209b7529-1fe8-4b4c-87e8-1d5caf63e23f" />
